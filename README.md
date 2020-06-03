@@ -1,2 +1,2 @@
 # dotfiles
-dotfiles repository
+collection of common config file
